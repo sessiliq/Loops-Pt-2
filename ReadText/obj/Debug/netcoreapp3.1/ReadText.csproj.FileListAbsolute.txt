@@ -1,0 +1,13 @@
+D:\cvetiProjects\LoopsPt2\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+D:\cvetiProjects\LoopsPt2\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+D:\cvetiProjects\LoopsPt2\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+D:\cvetiProjects\LoopsPt2\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+D:\cvetiProjects\LoopsPt2\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+D:\cvetiProjects\LoopsPt2\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+D:\cvetiProjects\LoopsPt2\ReadText\obj\Debug\netcoreapp3.1\ReadText.csprojAssemblyReference.cache
+D:\cvetiProjects\LoopsPt2\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+D:\cvetiProjects\LoopsPt2\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+D:\cvetiProjects\LoopsPt2\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+D:\cvetiProjects\LoopsPt2\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+D:\cvetiProjects\LoopsPt2\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+D:\cvetiProjects\LoopsPt2\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache

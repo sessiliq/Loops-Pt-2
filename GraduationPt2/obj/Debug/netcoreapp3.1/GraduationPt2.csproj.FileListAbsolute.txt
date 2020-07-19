@@ -1,0 +1,12 @@
+D:\cvetiProjects\LoopsPt2\GraduationPt2\bin\Debug\netcoreapp3.1\GraduationPt2.exe
+D:\cvetiProjects\LoopsPt2\GraduationPt2\bin\Debug\netcoreapp3.1\GraduationPt2.deps.json
+D:\cvetiProjects\LoopsPt2\GraduationPt2\bin\Debug\netcoreapp3.1\GraduationPt2.runtimeconfig.json
+D:\cvetiProjects\LoopsPt2\GraduationPt2\bin\Debug\netcoreapp3.1\GraduationPt2.runtimeconfig.dev.json
+D:\cvetiProjects\LoopsPt2\GraduationPt2\bin\Debug\netcoreapp3.1\GraduationPt2.dll
+D:\cvetiProjects\LoopsPt2\GraduationPt2\bin\Debug\netcoreapp3.1\GraduationPt2.pdb
+D:\cvetiProjects\LoopsPt2\GraduationPt2\obj\Debug\netcoreapp3.1\GraduationPt2.csproj.CoreCompileInputs.cache
+D:\cvetiProjects\LoopsPt2\GraduationPt2\obj\Debug\netcoreapp3.1\GraduationPt2.AssemblyInfoInputs.cache
+D:\cvetiProjects\LoopsPt2\GraduationPt2\obj\Debug\netcoreapp3.1\GraduationPt2.AssemblyInfo.cs
+D:\cvetiProjects\LoopsPt2\GraduationPt2\obj\Debug\netcoreapp3.1\GraduationPt2.dll
+D:\cvetiProjects\LoopsPt2\GraduationPt2\obj\Debug\netcoreapp3.1\GraduationPt2.pdb
+D:\cvetiProjects\LoopsPt2\GraduationPt2\obj\Debug\netcoreapp3.1\GraduationPt2.genruntimeconfig.cache

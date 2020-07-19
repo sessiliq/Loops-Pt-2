@@ -1,0 +1,13 @@
+D:\cvetiProjects\LoopsPt2\Graduation\bin\Debug\netcoreapp3.1\Graduation.exe
+D:\cvetiProjects\LoopsPt2\Graduation\bin\Debug\netcoreapp3.1\Graduation.deps.json
+D:\cvetiProjects\LoopsPt2\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.json
+D:\cvetiProjects\LoopsPt2\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.dev.json
+D:\cvetiProjects\LoopsPt2\Graduation\bin\Debug\netcoreapp3.1\Graduation.dll
+D:\cvetiProjects\LoopsPt2\Graduation\bin\Debug\netcoreapp3.1\Graduation.pdb
+D:\cvetiProjects\LoopsPt2\Graduation\obj\Debug\netcoreapp3.1\Graduation.csprojAssemblyReference.cache
+D:\cvetiProjects\LoopsPt2\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.CoreCompileInputs.cache
+D:\cvetiProjects\LoopsPt2\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfoInputs.cache
+D:\cvetiProjects\LoopsPt2\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfo.cs
+D:\cvetiProjects\LoopsPt2\Graduation\obj\Debug\netcoreapp3.1\Graduation.dll
+D:\cvetiProjects\LoopsPt2\Graduation\obj\Debug\netcoreapp3.1\Graduation.pdb
+D:\cvetiProjects\LoopsPt2\Graduation\obj\Debug\netcoreapp3.1\Graduation.genruntimeconfig.cache

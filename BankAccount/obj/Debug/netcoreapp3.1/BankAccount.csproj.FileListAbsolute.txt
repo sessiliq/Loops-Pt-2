@@ -1,0 +1,13 @@
+D:\cvetiProjects\LoopsPt2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+D:\cvetiProjects\LoopsPt2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+D:\cvetiProjects\LoopsPt2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+D:\cvetiProjects\LoopsPt2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+D:\cvetiProjects\LoopsPt2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+D:\cvetiProjects\LoopsPt2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+D:\cvetiProjects\LoopsPt2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+D:\cvetiProjects\LoopsPt2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+D:\cvetiProjects\LoopsPt2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+D:\cvetiProjects\LoopsPt2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+D:\cvetiProjects\LoopsPt2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+D:\cvetiProjects\LoopsPt2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+D:\cvetiProjects\LoopsPt2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache

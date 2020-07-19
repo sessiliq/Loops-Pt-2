@@ -1,0 +1,13 @@
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.exe
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.deps.json
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.runtimeconfig.json
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.runtimeconfig.dev.json
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.dll
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.pdb
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.csprojAssemblyReference.cache
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.csproj.CoreCompileInputs.cache
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.AssemblyInfoInputs.cache
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.AssemblyInfo.cs
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.dll
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.pdb
+D:\cvetiProjects\LoopsPt2\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.genruntimeconfig.cache

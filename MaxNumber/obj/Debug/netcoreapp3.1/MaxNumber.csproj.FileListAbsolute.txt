@@ -1,0 +1,13 @@
+D:\cvetiProjects\LoopsPt2\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.exe
+D:\cvetiProjects\LoopsPt2\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.deps.json
+D:\cvetiProjects\LoopsPt2\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.json
+D:\cvetiProjects\LoopsPt2\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.dev.json
+D:\cvetiProjects\LoopsPt2\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.dll
+D:\cvetiProjects\LoopsPt2\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.pdb
+D:\cvetiProjects\LoopsPt2\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csproj.CoreCompileInputs.cache
+D:\cvetiProjects\LoopsPt2\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfoInputs.cache
+D:\cvetiProjects\LoopsPt2\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfo.cs
+D:\cvetiProjects\LoopsPt2\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.dll
+D:\cvetiProjects\LoopsPt2\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.pdb
+D:\cvetiProjects\LoopsPt2\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.genruntimeconfig.cache
+D:\cvetiProjects\LoopsPt2\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csprojAssemblyReference.cache

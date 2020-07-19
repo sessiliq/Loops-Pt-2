@@ -1,0 +1,13 @@
+D:\cvetiProjects\LoopsPt2\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.exe
+D:\cvetiProjects\LoopsPt2\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.deps.json
+D:\cvetiProjects\LoopsPt2\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.json
+D:\cvetiProjects\LoopsPt2\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.dev.json
+D:\cvetiProjects\LoopsPt2\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.dll
+D:\cvetiProjects\LoopsPt2\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.pdb
+D:\cvetiProjects\LoopsPt2\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csprojAssemblyReference.cache
+D:\cvetiProjects\LoopsPt2\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csproj.CoreCompileInputs.cache
+D:\cvetiProjects\LoopsPt2\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfoInputs.cache
+D:\cvetiProjects\LoopsPt2\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfo.cs
+D:\cvetiProjects\LoopsPt2\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.dll
+D:\cvetiProjects\LoopsPt2\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.pdb
+D:\cvetiProjects\LoopsPt2\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.genruntimeconfig.cache

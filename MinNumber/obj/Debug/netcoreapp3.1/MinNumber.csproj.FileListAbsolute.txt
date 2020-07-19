@@ -1,0 +1,13 @@
+D:\cvetiProjects\LoopsPt2\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.exe
+D:\cvetiProjects\LoopsPt2\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.deps.json
+D:\cvetiProjects\LoopsPt2\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.json
+D:\cvetiProjects\LoopsPt2\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.dev.json
+D:\cvetiProjects\LoopsPt2\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.dll
+D:\cvetiProjects\LoopsPt2\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.pdb
+D:\cvetiProjects\LoopsPt2\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.CoreCompileInputs.cache
+D:\cvetiProjects\LoopsPt2\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfoInputs.cache
+D:\cvetiProjects\LoopsPt2\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfo.cs
+D:\cvetiProjects\LoopsPt2\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.dll
+D:\cvetiProjects\LoopsPt2\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.pdb
+D:\cvetiProjects\LoopsPt2\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.genruntimeconfig.cache
+D:\cvetiProjects\LoopsPt2\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csprojAssemblyReference.cache
